@@ -1,0 +1,2 @@
+# don't include .dlls since these require a licensed copy of XCalibur
+readw/*.dll
